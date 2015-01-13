@@ -11,3 +11,4 @@ if direction = "North"
 	else
 		puts"You sit at the fork and consider the options"
 	end
+end
